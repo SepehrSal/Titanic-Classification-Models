@@ -5,7 +5,7 @@ for this project we will be working with the [Titanic Data Set from Kaggle](http
 * Exploratory Data Analysis
 * Data Cleaning
 * Converting Categorical Features 
-* Building  Regression models
+* Building Classification models
 
 ## Exploratory Data Analysis
 We can use seaborn to create a simple heatmap to see where we are missing data:
@@ -25,7 +25,7 @@ ticket class:
  
 convert categorical features to dummy variables using pandas
 
-# Building  Regression models
+# Building Classification models
 * LogisticRegression
 * KNeighborsClassifier
 * RandomForestClassifier
